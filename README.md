@@ -42,8 +42,6 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <h3 align="left">Activity Graph</h3>
 
-## Watch snake eating my github contributions 
- 
 ![snake gif](https://github.com/SajaniJayasinghe/SajaniJayasinghe/blob/output/github-contribution-grid-snake.svg)
 
  
