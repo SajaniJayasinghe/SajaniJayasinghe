@@ -42,4 +42,8 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <h3 align="left">Activity Graph</h3>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/SajaniJayasinghe/SajaniJayasinghe/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/SajaniJayasinghe/SajaniJayasinghe/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+## Watch snake eating my github contributions 
+ 
+![snake gif](https://github.com/SajaniJayasinghe/SajaniJayasinghe/blob/output/github-contribution-grid-snake.svg)
+
+ 
