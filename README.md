@@ -17,9 +17,7 @@
 <p align="left">
 
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="woofie_mr.69" height="30" width="40" /></a>
-
 <a href = 'https://github.com/SajaniJayasinghe'> <img height="30" width="40" align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-
 <a href="https://www.linkedin.com/in/sajani-jayasinghe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 </p>
 
