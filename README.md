@@ -8,6 +8,10 @@
 - 🤝 I’m looking for help  **for my Projects**..
 
 - 📫 How to reach me **jayasinghesajani98@gmail.com**
+<div align="center">
+
+![image](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/image.gif)
+</div>
 <h3 align="center">A passionate Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajanijayasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="sajanijayasinghe" /> </p>
@@ -31,17 +35,21 @@
 
 
 
-<hr/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="left">GitHub Stats</h3>
 
 ![](https://github-readme-stats.vercel.app/api?username=SajaniJayasinghe&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SajaniJayasinghe&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SajaniJayasinghe&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <h3 align="left">Activity Graph</h3>
 
 ![snake gif](https://github.com/SajaniJayasinghe/SajaniJayasinghe/blob/output/github-contribution-grid-snake.svg)
 
- 
+ <h4 align="center">
+𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🤝
+𝙷𝚊𝚟𝚎 𝚊 𝚠𝚘𝚗𝚍𝚎𝚛𝚏𝚞𝚕 𝚘𝚛 𝚐𝚛𝚎𝚊𝚝 𝚍𝚊𝚢 ! 
+
+
