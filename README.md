@@ -4,6 +4,7 @@
 <h1 align="center">Hi 👋, I'm Sajani Jayasinghe </h1>
 <h4>∙ Thank You for taking the time to view my GitHub Profile :dizzy: </h4>
 <hr>
+<img align="left" width="150" height="150" src="https://res.cloudinary.com/practicaldev/image/fetch/s--1aZkAknA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/MishManners/MishManners/raw/master/My-OctocatsShortest.gif?raw=true" >
 
 - 🌱 I’m currently learning **Software Engineering @SLIIT** 
 
