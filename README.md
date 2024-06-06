@@ -21,7 +21,7 @@
   <img src="https://komarev.com/ghpvc/?username=sajanijayasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="sajanijayasinghe" /> 
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"></h3></h3>
 <p align="left">
   <a href="https://www.instagram.com/woofie_mr.69" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="woofie_mr.69" height="30" width="40" />
