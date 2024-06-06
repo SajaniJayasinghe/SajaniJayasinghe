@@ -14,9 +14,10 @@
 - 📫 How to reach me **jayasinghesajani98@gmail.com**
 <div align="center">
 
-![image](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/image.gif)
+<p align="center"><img src="https://res.cloudinary.com/dv0e2cfok/image/upload/v1668048473/My%20Stuff/animation_500_laagyzy9_mgubhm.gif" /></p>
+
 </div>
-<h3 align="center">A passionate Software Developer</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajanijayasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="sajanijayasinghe" /> </p>
 
