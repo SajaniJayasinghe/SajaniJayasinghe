@@ -111,7 +111,7 @@
 
 <img align="right" height="300" src="https://static.wixstatic.com/media/a89add_3d73f7e43cff4f37bdf0af4772ef6595~mv2.gif"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SajaniJayasinghe&theme=jolly&show_icons=true)<br/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SajaniJayasinghe&theme=jolly&show_icons=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SajaniJayasinghe&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SajaniJayasinghe&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
